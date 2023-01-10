@@ -7,7 +7,8 @@ Nothing special, just a graphical Hello World program I put together in QuickBAS
 ## Tools used
 
 QuickBASIC 4.5 running in FreeDOS 1.3 on VirtualBox 6.1.
-Also used GIMP, the GNU Image Manipulator Program and 7-Zip.
+
+Also used GIMP, the GNU Image Manipulator Program; and 7-Zip.
 
 BASIC was the first programming language I learned back when I was a teenager. It is a very old one, and not particularly used much at all in the modern world, but I'll always have a soft spot for it.
 
@@ -20,8 +21,10 @@ I used FreeDOS, but it does work on some of the newer versions of MS-DOS and PC-
 It also works on DOSBox.
 
 If you don't have QuickBASIC 4.5, QuickBASIC 7 should work too, as will QBasic 1.1.
+
 QB64 will run it too, it may want to convert it from QuickBASIC to QB64 first.
 A word of advice: You may need to add `_FULLSCREEN` and `_SQUAREPIXELS` to the source code first, otherwise the resolution of the window will look very small.
+
 I don't know if it will run in FreeBASIC.
 
 Open the file "HELLO.BAS" in QuickBASIC (or QBasic or QB64), then run it! In QuickBASIC and QB64, you can compile it to an executable; but QBasic is merely just a slim-down version of QuickBASIC that can only run it.
