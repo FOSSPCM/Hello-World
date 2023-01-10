@@ -28,7 +28,7 @@ Open the file "HELLO.BAS" in QuickBASIC (or QBasic or QB64), then run it! In Qui
 
 ## License
 
-Because I find this software to be trivial, I disclaim copyright. Some jurisdictions do not have a public domain, so that fallback license is the Zero-clause BSD license, since that is about as close to the Public Domain as the Open Source Initiative will allow.
+Because I find this software to be trivial, I disclaim copyright and placed it under the Unlicense. Some jurisdictions do not have a public domain, so the fallback license I picked is the Zero-clause BSD license, since that is about as close to the Public Domain as the Open Source Initiative will allow.
 
 ## Useful Websites
 
