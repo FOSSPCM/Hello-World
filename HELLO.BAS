@@ -1,5 +1,5 @@
 REM My Fancy-Shmancy Hello World program in QuickBASIC
-REM Written by Kelly "Mac" Young on January 9, 2023.
+REM Written by Mac Young on January 9, 2023.
 CLS 0
 SCREEN 13
 LOCATE 12, 15
