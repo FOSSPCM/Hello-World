@@ -2,7 +2,7 @@
 
 Nothing special, just a graphical Hello World program I put together in QuickBASIC 4.5. The graphics like the letters and the icon of the CRT monitor with the mouse on the screen are drawn by me. The stars on the background are randomly placed, so they change positions every time you run the program. The letters are drawn to look a little 3D-ish and stand out.
 
-[Software Demo Video](https://www.youtube.com/watch?v=dEdsG84UmFY)
+[Software Demo Video](https://youtu.be/ApEQae2UTEI)
 
 ## Tools used
 
